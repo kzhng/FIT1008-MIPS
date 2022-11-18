@@ -1,2 +1,2 @@
 # FIT1008-MIPS
-MIPS programs involving lists, local variables, and functions
+Assembly language programs (MIPS) involving lists, local variables, and functions
